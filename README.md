@@ -108,7 +108,7 @@ A browser-based game built with Vanilla JavaScript.
 - LinkedIn: https://www.linkedin.com/in/mina-shafiei-aa38b0310
 - Telegram: https://t.me/Aster1994
 - Portfolio: Coming Soon
-- Email: mina.shafiei18@gmail.com
+- Email: astersh19948@gmail.com
 
 ---
 
